@@ -4,7 +4,7 @@ import { Column, Container, Navbar, Button, Icon, Modal, Box, Dropdown } from 'r
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUtensils } from '@fortawesome/free-solid-svg-icons';
 import Product from './Components/Card';
-import Cart from './Components/Cart';
+//import Cart from './Components/Cart';
 import firebase from 'firebase/app';
 import 'firebase/database';
 
